@@ -6,7 +6,7 @@
 ### <div align="center">I'm Hardik, a full-time backend developer 👨‍💻 working hybrid since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Moisturiser](https://github.com/hardikphalet/grunt)  
+- 🔭 I’m currently working on [grunt](https://github.com/hardikphalet/grunt)  
   
 
 - 🌱 I’m currently learning Tokio and Kubernetes  
